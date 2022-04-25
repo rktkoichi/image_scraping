@@ -1,1 +1,2 @@
 # image_scraping
+page_urlで指定したwebサイトから複数枚の画像をスクレイピングするコード
